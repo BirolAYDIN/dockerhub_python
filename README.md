@@ -117,7 +117,7 @@ Project folder
 <img src="images/flask_web.png" alt="drawing" width="600"/>
 
 
-- Now we can send our created node.js application container to our storage area on the docker hub.
+- Now we can send our created flask application container to our storage area on the docker hub.
 
 - We copy a new image with the same image ID using the 'docker image tag dene2 aydbirol164494/dene2' command.
   
